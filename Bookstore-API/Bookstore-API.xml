@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bookstore-API</name>
+    </assembly>
+    <members>
+        <member name="T:Bookstore_API.Controllers.HomeController">
+            <summary>
+            This is a test API Controller
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:Bookstore_API.Controllers.HomeController.Get" -->
+        <member name="M:Bookstore_API.Controllers.HomeController.Get(System.Int32)">
+            <summary>
+            Get value
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Bookstore_API.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Bookstore_API.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:Bookstore_API.Startup.Configuration">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Bookstore_API.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Bookstore_API.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>
